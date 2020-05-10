@@ -1,0 +1,14 @@
+{
+	"variants": {
+		"": [
+			{ "model": "block/sandstone/cut_sandstone", "weight": 20 },   
+			{ "model": "block/sandstone/cut_sandstone2", "weight": 12 }, 
+			{ "model": "block/sandstone/cut_sandstone3", "weight": 8 }, 
+			{ "model": "block/sandstone/cut_sandstone4", "weight": 7 }, 
+			{ "model": "block/sandstone/cut_sandstone5", "weight": 8 }, 
+			{ "model": "block/sandstone/cut_sandstone6", "weight": 8 },     
+			{ "model": "block/sandstone/cut_sandstone7", "weight": 6 }, 
+			{ "model": "block/sandstone/cut_sandstone1", "weight": 12 }
+		]
+	}
+}
