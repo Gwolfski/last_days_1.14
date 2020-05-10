@@ -990,7 +990,7 @@
   "block.minecraft.green_terracotta": "Displays",
   "block.minecraft.red_terracotta": "Weathered Industrail Bricks",
   "block.minecraft.black_terracotta": "Broken Flood Light",
-  "block.minecraft.terracotta": "Machinery block",
+  "block.minecraft.terracotta": "Rotting Debris",
   "block.minecraft.sugar_cane": "Sugar Cane",
   "block.minecraft.jukebox": "Music Cartridge Survivor",
   "block.minecraft.oak_fence": "Corrugated Metal Fence",
@@ -2217,7 +2217,7 @@
   "enchantment.level.10": "X",
   "gui.advancements": "[Advancements]",
   "gui.stats": "[Statistics]",
-  "advancements.empty": "<ERROR 404> No advancements found"
+  "advancements.empty": "<ERROR 404> No advancements found",
   "advancements.toast.task": "Advancement Made!",
   "advancements.toast.challenge": "Challenge Complete!",
   "advancements.toast.goal": "Goal Reached!",
